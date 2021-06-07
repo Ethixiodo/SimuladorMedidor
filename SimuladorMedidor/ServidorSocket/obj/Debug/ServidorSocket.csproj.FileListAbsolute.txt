@@ -1,0 +1,6 @@
+C:\Users\ingma\Source\Repos\SimuladorMedidor\ServidorSocket\bin\Debug\ServidorSocket.dll
+C:\Users\ingma\Source\Repos\SimuladorMedidor\ServidorSocket\bin\Debug\ServidorSocket.pdb
+C:\Users\ingma\Source\Repos\SimuladorMedidor\ServidorSocket\obj\Debug\ServidorSocket.csprojAssemblyReference.cache
+C:\Users\ingma\Source\Repos\SimuladorMedidor\ServidorSocket\obj\Debug\ServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\ingma\Source\Repos\SimuladorMedidor\ServidorSocket\obj\Debug\ServidorSocket.dll
+C:\Users\ingma\Source\Repos\SimuladorMedidor\ServidorSocket\obj\Debug\ServidorSocket.pdb
