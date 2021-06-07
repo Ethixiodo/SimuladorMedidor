@@ -1,6 +1,0 @@
-C:\Users\ingma\Source\Repos\SimuladorMedidor\MedidorModelo\bin\Debug\MedidorModelo.dll
-C:\Users\ingma\Source\Repos\SimuladorMedidor\MedidorModelo\bin\Debug\MedidorModelo.pdb
-C:\Users\ingma\Source\Repos\SimuladorMedidor\MedidorModelo\obj\Debug\MedidorModelo.csprojAssemblyReference.cache
-C:\Users\ingma\Source\Repos\SimuladorMedidor\MedidorModelo\obj\Debug\MedidorModelo.csproj.CoreCompileInputs.cache
-C:\Users\ingma\Source\Repos\SimuladorMedidor\MedidorModelo\obj\Debug\MedidorModelo.dll
-C:\Users\ingma\Source\Repos\SimuladorMedidor\MedidorModelo\obj\Debug\MedidorModelo.pdb
